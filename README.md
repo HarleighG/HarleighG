@@ -12,6 +12,6 @@ Hi, I'm Harleigh. I work at Glide as Head of Operations, growing every day to ke
 
 | Rank | Current Learning |
 |-----:|---------------|
-|     1|Raising a human being               |
+|     1|Raising two human beings               |
 |     2|Scaling a badass company               |
 |     3|Documentation with the help of https://docs.github.com/en              |
